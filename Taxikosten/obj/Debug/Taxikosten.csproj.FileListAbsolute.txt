@@ -1,0 +1,10 @@
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\bin\Debug\Taxikosten.exe.config
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\bin\Debug\Taxikosten.exe
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\bin\Debug\Taxikosten.pdb
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\obj\Debug\Taxikosten.csprojAssemblyReference.cache
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\obj\Debug\Taxikosten.Properties.Resources.resources
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\obj\Debug\Taxikosten.csproj.GenerateResource.cache
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\obj\Debug\Taxikosten.csproj.CoreCompileInputs.cache
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\obj\Debug\Taxikosten.exe
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\obj\Debug\Taxikosten.pdb
+C:\Users\Bramj\source\repos\Taxikosten\Taxikosten\obj\Debug\Taxikosten.Taxikosten.resources
